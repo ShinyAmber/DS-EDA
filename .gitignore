@@ -135,6 +135,7 @@ venv/
 ENV/
 env.bak/
 venv.bak/
+.venv-windows
 
 # Spyder project settings
 .spyderproject
@@ -183,9 +184,8 @@ cython_debug/
 
 # Cositas local
 archive.zip
-archive/steam_games.csv
-archive/steam_games_reviews.csv
-src/data/archive/steam_games.csv
-src/data/archive/steam_games_reviews.csv
+src/data/archive/
 John W. Tukey - Exploratory Data Analysis (1977, Addison Wesley).pdf
 steam-ds-2025.zip
+
+/guias-clase
