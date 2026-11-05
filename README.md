@@ -68,4 +68,4 @@ Análisis exploratorio de datos (EDA) sobre los juegos publicados en Steam entre
 3. Ejecuta los notebooks **en orden** (`00` → `03`) desde la carpeta `notebooks/`. El `00` genera los archivos limpios que usan los demás.
 
 ---
-Amber Cebrián · Bootcamp Data Science 2026 · 2026
+Amber Cebrián · Bootcamp Data Science 2026
